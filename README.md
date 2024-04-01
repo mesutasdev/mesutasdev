@@ -6,7 +6,6 @@
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
 <h3 align="center">A passionate IOS developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mesutasdev&label=Profile%20views&color=0e75b6&style=flat" alt="mesutasdev" /> </p>
 
 - 🔭 I’m currently working on [SwiftBuddiesTR](https://github.com/SwiftBuddiesTR)
 
@@ -35,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesutasdev&show_icons=true&locale=en" alt="mesutasdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesutasdev&" alt="mesutasdev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mesutasdev&label=Profile%20views&color=0e75b6&style=flat" alt="mesutasdev" /> </p>
