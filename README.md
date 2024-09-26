@@ -1,5 +1,6 @@
 
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQG9MHZIosiecA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725538097060?e=1730937600&v=beta&t=qfcgem_JpAvnBfZd8rlFv2SewkJMTH8EO72jNlFLY1Q)
+![yatay kapak banner psd (1)](https://github.com/user-attachments/assets/bee1f73c-38cf-4571-bbd7-fb4865e0d26b)
+
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
 <h3 align="center">A passionate IOS developer from Türkiye</h3>
