@@ -1,5 +1,6 @@
 
-![yatay kapak banner psd (1)](https://github.com/user-attachments/assets/bee1f73c-38cf-4571-bbd7-fb4865e0d26b)
+![yatay kapak banner psd (2)](https://github.com/user-attachments/assets/746366d3-9f55-4435-a817-d3406344da8b)
+
 
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
