@@ -1,10 +1,9 @@
 
-![yatay kapak banner psd (2)](https://github.com/user-attachments/assets/746366d3-9f55-4435-a817-d3406344da8b)
-
+![github](https://github.com/user-attachments/assets/6613af02-d0ce-4075-9094-0a7f26b7c693)
 
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
-<h3 align="center">A passionate IOS developer from Türkiye</h3>
+<h3 align="center">A passionate IOS developer from Türkiye</h3> 
 
 - 🔭 I’m currently working on [SwiftBuddiesTR](https://github.com/SwiftBuddiesTR)
 
