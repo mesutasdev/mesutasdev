@@ -3,13 +3,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
-<h3 align="center">A passionate IOS developer from Türkiye</h3> 
+<h3 align="center">A passionate iOS Developer from Türkiye</h3> 
 
 - 🔭 I’m currently working on [SwiftBuddiesTR](https://github.com/SwiftBuddiesTR)
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI - UIKit**
 
-- 💬 Ask me about **SwiftUI**
+- 💬 Ask me about **SwiftUI - UIKit**
 
 - 📫 How to reach me **mesutasdev@gmail.com**
 
