@@ -1,5 +1,4 @@
 
-![mesutasdev](https://github.com/user-attachments/assets/3dc2d524-7572-4956-bd4f-f280293446df)
 <img width="2031" height="507" alt="mesutas Linkedin Kapak" src="https://github.com/user-attachments/assets/f9b790b6-db08-46db-8495-e1d2ff54406e" />
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
