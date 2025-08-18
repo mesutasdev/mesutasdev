@@ -1,5 +1,5 @@
 
-<img width="2031" height="507" alt="mesutas Linkedin Kapak" src="https://github.com/user-attachments/assets/f9b790b6-db08-46db-8495-e1d2ff54406e" />
+<img width="2031" height="507" alt="mesutasdev" src="https://github.com/user-attachments/assets/884df328-b0e3-4bf4-84d8-0173522b15dd" />
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
 <h3 align="center">A passionate iOS Developer from Türkiye</h3> 
