@@ -1,5 +1,6 @@
 
-<img width="2031" height="507" alt="mesutasdev" src="https://github.com/user-attachments/assets/884df328-b0e3-4bf4-84d8-0173522b15dd" />
+<img width="2031" height="507" alt="mesutasdev_linkedin" src="https://github.com/user-attachments/assets/ce0b279f-8f56-44b6-a323-2ae2edb8559c" />
+
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
 <h3 align="center">A passionate iOS Developer from Türkiye</h3> 
