@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
-<h3 align="center">A passionate iOS Developer from Türkiye</h3> 
+<h3 align="center">A passionate Full Stack iOS Developer from Türkiye</h3> 
 
 - 🔭 I’m currently working on [SwiftBuddiesTR](https://github.com/SwiftBuddiesTR)
 
