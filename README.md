@@ -1,7 +1,7 @@
 <img width="2031" height="507" alt="mesutasdev_linkedin" src="https://github.com/user-attachments/assets/ce0b279f-8f56-44b6-a323-2ae2edb8559c" />
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
-<h3 align="center">A passionate Full Stack iOS Developer from Türkiye, building and publishing apps on the App Store</h3>
+<h3 align="center">A passionate Full Stack iOS Developer from Istanbul, building and publishing apps on the App Store</h3>
 
 - 🔭 I’m currently working on [SwiftBuddiesTR](https://github.com/SwiftBuddiesTR)
 - 🌱 I’m constantly improving **SwiftUI & UIKit skills**
