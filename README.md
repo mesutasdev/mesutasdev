@@ -1,5 +1,4 @@
-<img width="4062" height="1014" alt="Linkedin Kapak (1)" src="https://github.com/user-attachments/assets/39d20886-20c9-4457-af8c-74916df6961e" />
-
+<img width="4062" height="1014" alt="Github Kapak" src="https://github.com/user-attachments/assets/85b3ade7-f818-4133-b7a7-e290d73f90b8" />
 
 
 
