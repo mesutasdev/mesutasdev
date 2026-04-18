@@ -1,4 +1,5 @@
-<img width="3000" height="500" alt="Github Kapak" src="https://github.com/user-attachments/assets/0c8c9b0e-e431-44ef-9c4b-84fe460fc14f" />
+<img width="3000" height="500" alt="Github Kapak" src="https://github.com/user-attachments/assets/abdbbfb4-49fb-41d0-b7fd-0babed937fe3" />
+
 
 
 
