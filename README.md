@@ -3,21 +3,31 @@
 
 
 
-
-
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
-<h3 align="center">A passionate Full Stack iOS Developer from Istanbul, building and publishing apps on the App Store</h3>
+<h3 align="center">Software Engineer & Tech Entrepreneur based in Istanbul🇹🇷
+</h3>
 
-- 🔭 I’m currently working on [SwiftBuddiesTR](https://github.com/SwiftBuddiesTR)
-- 🌱 I’m constantly improving **SwiftUI & UIKit skills**
-- 💬 Ask me about **iOS development, full stack app architecture, Swift & Firebase**
+
+- Founder at TechAs & DevCircleUp. Building high-impact mobile and web products with 12+ live apps.
+
+- 🚀 Currently: Engineering scalable mobile apps at TechAs & expanding DevCircleUp community
+
+- 🛠️ Tech Stack: Swift, SwiftUI, UIKit, Flutter, Dart, Firebase, Web & Admin Panels
+
+- 📱 Shipped: 12+ apps live on App Store & Google Play (Brief AI, TryMeal, PoseSnap, Route Istanbul & more)
+
+- 💬 Ask me about: Cross-platform architecture, mobile UI/UX, product design, and building from 0 to 1
+
 - 📫 How to reach me: **mesutasdev@gmail.com**
+  
+- 🌐 Portfolio: https://techas.co
+
 
 ### Connect with me:
 
 | | | | | | |
 |---|---|---|---|---|---|
-| <a href="https://linkedin.com/in/mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> | <a href="https://www.youtube.com/@mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a> | <a href="https://medium.com/@mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a> | <a href="https://instagram.com/mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> | <a href="https://x.com/mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" /></a> | <a href="https://stackoverflow.com/users/23107350/mesut-as"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a> |
+| <a href="https://linkedin.com/in/mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a> | <a href="https://www.youtube.com/@mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40" width="40" /></a> | <a href="https://medium.com/@mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="40" width="40" /></a> | <a href="https://instagram.com/mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a> | <a href="https://x.com/mesutasdev"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1280px-X_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="x" height="40" width="40" /></a> | <a href="https://stackoverflow.com/users/23107350/mesut-as"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a> |
 
 
 ---
