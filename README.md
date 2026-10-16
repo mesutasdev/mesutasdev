@@ -1,44 +1,58 @@
-<img width="4062" height="1014" alt="mesutas" src="https://github.com/user-attachments/assets/d5b78881-dc79-4967-8445-aab3b77dd987" />
-
-
-
-
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
-<h3 align="center">Software Engineer & Tech Entrepreneur based in Istanbul🇹🇷
-</h3>
+<h3 align="center">Mobile & Web Developer · Flutter · iOS · Android · Web & Admin Panels</h3>
+<p align="center">📍 Istanbul, Türkiye</p>
 
-
-- Founder at TechAs & DevCircleUp. Building high-impact mobile and web products with 12+ live apps.
-
-- 🚀 Currently: Engineering scalable mobile apps at TechAs & expanding DevCircleUp community
-
-- 🛠️ Tech Stack: Swift, SwiftUI, UIKit, Flutter, Dart, Firebase, Web & Admin Panels
-
-- 📱 Shipped: 12+ apps live on App Store & Google Play (Brief AI, TryMeal, PoseSnap, Route Istanbul & more)
-
-- 💬 Ask me about: Cross-platform architecture, mobile UI/UX, product design, and building from 0 to 1
-
-- 📫 How to reach me: **mesutasdev@gmail.com**
-  
-- 🌐 Portfolio: https://techas.co
-
-
-### Connect with me:
-
-| | | | | | |
-|---|---|---|---|---|---|
-| <a href="https://linkedin.com/in/mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a> | <a href="https://www.youtube.com/@mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40" width="40" /></a> | <a href="https://medium.com/@mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="40" width="40" /></a> | <a href="https://instagram.com/mesutasdev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a> | <a href="https://x.com/mesutasdev"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1280px-X_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="x" height="40" width="40" /></a> | <a href="https://stackoverflow.com/users/23107350/mesut-as"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a> |
-
-
----
-<h3 align="left">Languages and Tools:</h3>
-
-| | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a> | <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> | <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> | <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> | <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> | <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/></a> | <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/></a> | <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></a> | <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a> |
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesutasdev&theme=nord&hide_border=true&layout=compact" width="370" />
+<p align="center">
+  <a href="https://mesutas.com"><img src="https://img.shields.io/badge/Website-mesutas.com-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mesutasdev"><img src="https://img.shields.io/badge/LinkedIn-mesutasdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mesutasdev@gmail.com"><img src="https://img.shields.io/badge/Email-mesutasdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mesutasdev&label=Profile%20views&color=0e75b6&style=flat" alt="mesutasdev" /> </p>
+---
+
+### 🧑‍💻 About Me
+
+I started with **native iOS (Swift & SwiftUI)** and shipped multiple apps to the App Store, then moved into **cross-platform with Flutter & Dart** to build fast, scalable apps for iOS and Android.
+
+Beyond code, I own the full store lifecycle — Apple Developer & Google Play Console setup, policy compliance, **ASO**, and getting apps approved and live.
+
+- 🚀 **Software Developer @ [We Studio](https://westudio.dev)** — building AI-powered mobile apps end-to-end (client communication, architecture, store launches)
+- 🏗️ **Founder @ [TechAs.co](https://techas.co)** — 12+ apps shipped to App Store & Google Play with RevenueCat, Adapty & StoreKit
+- 🤝 **Founder @ DevCircleUp** — a community where developers and designers build products together
+- 💬 **Ask me about:** Flutter architecture, SwiftUI, in-app purchases, App Store / Play Store publishing, building from 0 to 1
+
+---
+
+### 📱 Featured Projects
+
+| App | Stack | What it does | Store |
+|---|---|---|---|
+| **FlowNote by Brief AI** | Swift · SwiftUI · Audio AI · Adapty | AI meeting notes: transcription, summaries & action items | App Store |
+| **TryMeal – AI Recipe Chef** | Flutter · Riverpod · Firebase | AI chef that generates recipes from your pantry, meal planning & sharing | App Store · Play |
+| **SeedMoney – Finance** | Flutter · Riverpod · Firebase | Multi-account finance tracking, budgets & visual analytics (iOS/Android/Web) | App Store · Play |
+| **Calorie Tracker AI \| Leaf** | Swift · SwiftUI · Vision AI · Barcode | Calorie & macro estimates from a photo or barcode scan | App Store |
+| **PoseSnap – AI Camera** | Swift · SwiftUI · Vision | Hands-free camera that shoots when you hold a pose | App Store |
+| **Titan Fit – Home & Gym** | Swift · SwiftUI · Firebase · StoreKit | Personalized HIIT & bodyweight workouts with progress analytics | App Store |
+| **iPreggy – Pregnancy Tracker** | Swift · SwiftUI · Firebase | Client project, from UI design to App Store launch | App Store |
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,firebase,nextjs,react,ts,js,tailwind,html,css,git,github,xcode,androidstudio,vscode" />
+</p>
+
+- **Languages & Frameworks:** Dart, Flutter, Swift, SwiftUI, UIKit, Next.js, React, TypeScript, Tailwind CSS, JavaScript, HTML5/CSS3
+- **Architecture & State:** Riverpod, BLoC, MVVM, Clean Architecture, RESTful APIs
+- **Backend & Integrations:** Firebase (Auth, Firestore, Realtime DB), RevenueCat, Adapty, StoreKit, CoreLocation
+- **Tools & Delivery:** Xcode, Android Studio, VS Code, TestFlight, App Store Connect, Google Play Console
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mesutasdev&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesutasdev&layout=compact&theme=transparent&hide_border=true" />
+</p>
