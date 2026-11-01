@@ -1,4 +1,4 @@
-<<img width="100%" src="assets/TechAs%20LinkedIn%20Kapak.png" alt="Mesut As banner" />
+<img width="100%" src="assets/TechAs%20LinkedIn%20Kapak.png" alt="Mesut As banner" />
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
 <h3 align="center">Mobile & Web Developer · Flutter · iOS · Android · Web & Admin Panels</h3>
